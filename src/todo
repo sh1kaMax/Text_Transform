@@ -1,0 +1,8 @@
+1)
+public void main(){
+    exceptionMethod(); // 2 способа скомпилировать прогу
+}
+
+2) throws keyword
+
+3) рефлексия
